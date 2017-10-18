@@ -17,12 +17,12 @@ public class Part2Tester {
     
     public static void main(String[] args)
     {
-        Rectangle square = new Rectangle(2,2);
-        Rectangle defaultRec = new Rectangle();
-        Circle circ1 = new Circle(3);
-        Circle defaultCirc = new Circle();
-        Triangle tri = new Triangle();
-        Triangle defaultTri = new Triangle(3,4,5);
+        GeometricObject square = new Rectangle(2,2);
+        GeometricObject defaultRec = new Rectangle();
+        GeometricObject circ1 = new Circle(3);
+        GeometricObject defaultCirc = new Circle();
+        GeometricObject tri = new Triangle();
+        GeometricObject defaultTri = new Triangle(3,4,5);
         ArrayList<GeometricObject> gArray = new ArrayList<GeometricObject>();
         gArray.add(square);
         gArray.add(defaultRec);
