@@ -1,0 +1,70 @@
+run:
+Hello Earth user, please enter 'send' to send a message, 'read' to read a message, or 'quit': read
+Please enter a file name to read the message from: 
+earth.txt
+Could not find file earth.txt
+please enter 'send' to send a message, 'read' to read a message, or 'quit': send
+Please enter the language understood by your recipient(Earth, Klingon, Vulcan, or Ferrengi):
+earth
+Please enter a file name to write the message to: 
+earth.txt
+Please type your message: 
+Hello I want you to live long and prosper
+Message written to earth.txt : Hello I want you to live long and prosper
+please enter 'send' to send a message, 'read' to read a message, or 'quit': read
+Please enter a file name to read the message from: 
+earth.txt
+New Message: Hello I want you to live long and prosper
+please enter 'send' to send a message, 'read' to read a message, or 'quit': send
+Please enter the language understood by your recipient(Earth, Klingon, Vulcan, or Ferrengi):
+klingon
+Please enter a file name to write the message to: 
+earth.txt
+earth.txt already exists, overwrite? (yes/no)
+no
+Enter new file name: klingon.txt
+Please type your message: 
+hello i want you to live long and prosper
+Translating to Klingon...
+Translated message saved to klingon.txt: hello YA want CO MO DIF DOR DO AMOSMAR 
+New Message in Klingon: hello YA want CO MO DIF DOR DO AMOSMAR 
+please enter 'send' to send a message, 'read' to read a message, or 'quit': send
+Please enter the language understood by your recipient(Earth, Klingon, Vulcan, or Ferrengi):
+klingon
+Please enter a file name to write the message to: 
+klingon.txt
+klingon.txt already exists, overwrite? (yes/no)
+yes
+Please type your message: 
+sam i am green eggs and ham
+Translating to Klingon...
+Translated message saved to klingon.txt: SAMAK YA GWI YOYO OMA DO HALI 
+New Message in Klingon: SAMAK YA GWI YOYO OMA DO HALI 
+please enter 'send' to send a message, 'read' to read a message, or 'quit': send
+Please enter the language understood by your recipient(Earth, Klingon, Vulcan, or Ferrengi):
+vulcan
+Please enter a file name to write the message to: 
+vulcan.txt
+Please type your message: 
+hello i want you to live long and prosper
+Translating to Vulcan...
+Translated message saved to vulcan.txt: repsorp dna gnol evil ot uoy tnaw i olleh
+New Message: repsorp dna gnol evil ot uoy tnaw i olleh
+please enter 'send' to send a message, 'read' to read a message, or 'quit': send
+Please enter the language understood by your recipient(Earth, Klingon, Vulcan, or Ferrengi):
+ferrengi
+Please enter a file name to write the message to: 
+ferrengi.txt
+Please type your message: 
+hello i want you to live long and prosper
+Translating to Ferrengi...
+Translated message saved to ferrengi.txt: ellohay iay antway ouyay otay ivelay onglay ndaay rosperpay 
+New Message: ellohay iay antway ouyay otay ivelay onglay ndaay rosperpay 
+please enter 'send' to send a message, 'read' to read a message, or 'quit': send
+Please enter the language understood by your recipient(Earth, Klingon, Vulcan, or Ferrengi):
+not supported language
+Please enter a file name to write the message to: 
+a.txt
+Invalid Language
+please enter 'send' to send a message, 'read' to read a message, or 'quit': quit
+BUILD SUCCESSFUL (total time: 3 minutes 59 seconds)
